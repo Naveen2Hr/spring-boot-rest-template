@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: springboot-rest-demo-template
-  title: Spring Boot Rest Service
+  title: Spring Boot Rest Demo Service
   description: Create a simple Restful microservice using Spring Boot Java
   tags:
     - java
