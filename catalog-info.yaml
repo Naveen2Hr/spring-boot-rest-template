@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: springboot-rest-template
   annotations:
-    github.com/project-slug: stephennewman-lab49/springboot-rest-template
+    github.com/project-slug: Naveen2Hr/spring-boot-rest-template
 spec:
   type: other
   lifecycle: unknown
